@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **paphachanok/paphachanok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paphachanok&show_icons=true&theme=nightowl&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paphachanok)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=paphachanok)](https://github.com/anuraghazra/github-readme-stats)
